@@ -1,3 +1,1 @@
-# heart_feb
-
-Heart attack prediction.
+# Heart attack prediction
